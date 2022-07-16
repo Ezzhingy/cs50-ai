@@ -19,3 +19,5 @@ After a bit of tinkering, I discovered a few things. Firstly, the main reason th
 - added a hidden layer with 256 units, with a dropout of 50%
 - added an output layer with activation 'softmax'
 These choices resulted in a final accuracy of 0.9623
+
+Trained using the German Traffic Sign Recognition Benchmark dataset, consisting of 26,640 images of 43 different kinds of roads signs
